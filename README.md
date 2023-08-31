@@ -1,1 +1,2 @@
-# This  repository shows KLSE method for constructing the synaptic density connectome.
+# Kullback-Leibler divergence similarity estimation（KLSE)
+KLSE method for constructing individual synaptic density networks
