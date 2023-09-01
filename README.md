@@ -1,5 +1,5 @@
 # Kullback-Leibler divergence similarity estimation（KLSE)
-KLSE method for constructing individual synaptic density networks.
+KLSE method for constructing individual synaptic density connectome.
 ## Description  
 1.The main code see klse_pet.m  
 2.The kernel density estimation function see kde.m     
